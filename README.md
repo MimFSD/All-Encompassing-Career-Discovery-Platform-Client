@@ -3,7 +3,7 @@ to run this project
 2. add your firebase token in firebase.config.js
 3. npm run dev
 
-* 1. live link: https://skills-sphere-efc98.web.app/
+* 1. live link: [All Encompassing Career Discovery Platform]( https://skills-sphere-efc98.web.app/)
 
 
 special features 
