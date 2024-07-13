@@ -1,4 +1,4 @@
-The All Encompassing Career Discovery Platform is a comprehensive, global job-seeking and career development website designed to connect job seekers with employers, and provide a wide array of resources to support professional growth. This platform aims to be a one-stop destination for individuals at all stages of their career journey, from entry-level positions to senior executive roles, and from local opportunities to international placements.
+All Encompassing Career Discovery Platform is a comprehensive, global job-seeking and career development website designed to connect job seekers with employers, and provide a wide array of resources to support professional growth. This platform aims to be a one-stop destination for individuals at all stages of their career journey, from entry-level positions to senior executive roles, and from local opportunities to international placements.
 
 * Website link :  link: [All Encompassing Career Discovery Platform]( https://skills-sphere-efc98.web.app/)
 
