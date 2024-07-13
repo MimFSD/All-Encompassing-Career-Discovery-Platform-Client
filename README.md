@@ -3,7 +3,6 @@ The All Encompassing Career Discovery Platform is a comprehensive, global job-se
 * Website link :  link: [All Encompassing Career Discovery Platform]( https://skills-sphere-efc98.web.app/)
 
 
-
 to run the roject :
 1. npm install
 2. add your firebase token in firebase.config.js
