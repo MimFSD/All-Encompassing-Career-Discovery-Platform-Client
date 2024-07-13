@@ -1,5 +1,3 @@
-assignment_category_0003
-
 to run this project
 1. npm i
 2. add your firebase token in firebase.config.js
