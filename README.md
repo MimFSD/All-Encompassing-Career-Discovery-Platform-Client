@@ -7,7 +7,7 @@ to run the roject :
 1. npm install
 2. add your firebase token in firebase.config.js
 3. npm run dev
-4. 
+
 <!-- special features 
 * 1. private routes 
 * 2. google login, github login
