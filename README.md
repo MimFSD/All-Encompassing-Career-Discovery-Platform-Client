@@ -6,7 +6,7 @@ to run this project
 * Website link :  link: [All Encompassing Career Discovery Platform]( https://skills-sphere-efc98.web.app/)
 
 
-special features 
+<!-- special features 
 * 1. private routes 
 * 2. google login, github login
 * 3. jwt
@@ -15,4 +15,4 @@ special features
 * 4. framer motion in card
 * 5. env file 
 * 6. swiper js slider
-* 7. react tabs 
+* 7. react tabs  -->
