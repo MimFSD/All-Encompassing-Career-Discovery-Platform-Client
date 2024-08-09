@@ -11,6 +11,8 @@ const GoogleLogin = () => {
     const form = location?.state || '/';
 
 
+    
+
     const handleSocialLogin = socialProvider => {
         socialProvider()
             .then(result => {
