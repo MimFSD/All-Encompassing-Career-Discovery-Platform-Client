@@ -5,6 +5,7 @@ import toast from "react-hot-toast";
 const GoogleLogin = () => {
     const { googleSignIn } = UseAuth();
 
+    //  navigate
     const navigate = useNavigate();
     const location = useLocation();
     const form = location?.state || '/';
@@ -15,7 +16,7 @@ const GoogleLogin = () => {
             .then(result => {
                 toast.success('Logged in with Google successfully');
                 navigate(form)
-         
+                // console.log(result.user)
             })
             .catch(error => {
                 toast.error('Failed to login with Google');
