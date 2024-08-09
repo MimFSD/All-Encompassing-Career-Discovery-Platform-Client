@@ -6,6 +6,8 @@ import axios from 'axios';
 import UseAuth from '../UseAuth/UseAuth';
 import { useLoaderData, useNavigate } from 'react-router-dom';
 
+
+
 const UpdateJobInfo = () => {
     const job = useLoaderData();
     const { Applicants_Number, _id, description, job_title, category, Picture_URL, Salary_range, startDate, email } = job;
